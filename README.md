@@ -2,7 +2,7 @@
 <h3 align="center">Automation & AI Engineer</h3>
 
 <p align="center">
-🚀 Java • Spring Boot • React • Agentic AI • CrewAI • DevOps • Cloud
+Java • Spring Boot • React • Agentic AI • CrewAI • DevOps • Cloud
 </p>
 
 <p align="center">
