@@ -51,7 +51,6 @@ I enjoy working at the intersection of:
 ###  Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ---
 ###  AI / Automation
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge)
