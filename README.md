@@ -2,7 +2,7 @@
 <h3 align="center">Automation & AI Engineer</h3>
 
 <p align="center">
-Java • Spring Boot • React • Agentic AI • CrewAI • DevOps • Cloud
+Java • Spring Boot • React • Gen AI • CrewAI • DevOps • Cloud
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ Java • Spring Boot • React • Agentic AI • CrewAI • DevOps • Cloud
 
 ## About Me
 
-I'm an **Automation & AI Engineer** and currently working as an **Associate Engineer at Ascendion**.  
+I'm an **Software Engineer** and currently working as an **Associate Engineer at Ascendion**.  
 I specialize in building:
 
 >  **Scalable backend systems, AI-driven automation platforms, and developer-focused tools.**
@@ -23,8 +23,8 @@ I specialize in building:
 I enjoy working at the intersection of:
 
 -  **Agentic AI systems**
+-  **Backend architecture & system design** 
 -  **Automation & AIOps**
--  **Backend architecture & system design**
 
 ---
 
