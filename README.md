@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suhas NH</h1>
-<h3 align="center">Automation & AI Engineer</h3>
+<h1 align="center">Hi 👋, I'm Suhas N H</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
 Java • Spring Boot • React • Gen AI • CrewAI • DevOps • Cloud
